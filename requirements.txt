@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+langchain-groq
+yfinance
+python-dotenv
+gunicorn

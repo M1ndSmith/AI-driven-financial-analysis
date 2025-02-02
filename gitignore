@@ -1,0 +1,48 @@
+
+# Environment variables
+.env
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Database files
+instance/
+*.sqlite3
+*.db
+
+# Migrations
+migrations/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# pytest cache
+tests/.pytest_cache/
+
+# Flask session files
+instance/
+
+# Ignore cache and build files
+*.egg-info/
+dist/
+build/
+
+# Gunicorn logs
+gunicorn.log
+gunicorn.error.log
