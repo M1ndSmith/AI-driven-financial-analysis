@@ -166,10 +166,8 @@ flask run --host=0.0.0.0 --port=5000
 
 ```json
 {
-    "analysis": """
-  The stock shows strong profitability...
- .... I would recommend that the trader hold the stock.
-  """
+    "analysis": "The stock shows strong profitability....... I would recommend that the trader hold the stock..."
+
 }
 ```
 
